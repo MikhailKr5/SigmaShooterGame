@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\UserOK\\Documents\\Unreal Projects\\GameSigmaShooter\\Source\\GameSigmaShooter\\GameSigmaShooter.Build.cs",
+		"C:\\Users\\UserOK\\Documents\\Unreal Projects\\GameSigmaShooter\\Source\\GameSigmaShooter.Target.cs",
+		"C:\\Users\\UserOK\\Documents\\Unreal Projects\\GameSigmaShooter\\Source\\GameSigmaShooterEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

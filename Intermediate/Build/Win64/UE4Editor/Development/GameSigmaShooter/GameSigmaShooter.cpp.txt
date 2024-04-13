@@ -1,0 +1,2 @@
+C:\Users\UserOK\Documents\Unreal Projects\GameSigmaShooter\Intermediate\Build\Win64\UE4Editor\Development\GameSigmaShooter\Definitions.GameSigmaShooter.h
+C:\Users\UserOK\Documents\Unreal Projects\GameSigmaShooter\Source\GameSigmaShooter\GameSigmaShooter.h

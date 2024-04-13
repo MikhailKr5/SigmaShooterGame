@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GameSigmaShooter",
+			"Path": "C:\\Users\\UserOK\\Documents\\Unreal Projects\\GameSigmaShooter\\Source\\GameSigmaShooter.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GameSigmaShooterEditor",
+			"Path": "C:\\Users\\UserOK\\Documents\\Unreal Projects\\GameSigmaShooter\\Source\\GameSigmaShooterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
