@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
 	"FileVersion": 3,
 	"EngineAssociation": "4.27",
@@ -16,4 +17,24 @@
 			"Enabled": true
 		}
 	]
+=======
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "GameSigmaShooter",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "MultiUserClient",
+			"Enabled": true
+		}
+	]
+>>>>>>> 5258b317ec39f5f6dbe75faa8f9efdf74899fd75
 }

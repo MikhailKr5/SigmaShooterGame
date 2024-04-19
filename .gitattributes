@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 # Auto detect text files and perform LF normalization
 * text=auto
 *.umap filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
 *.db filter=lfs diff=lfs merge=lfs -text
 *.database filter=lfs diff=lfs merge=lfs -text
+=======
+# Auto detect text files and perform LF normalization
+* text=auto
+*.umap filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.db filter=lfs diff=lfs merge=lfs -text
+*.database filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 5258b317ec39f5f6dbe75faa8f9efdf74899fd75
 .vs/GameSigmaShooter/v17/Browse.VC.db.rar filter=lfs diff=lfs merge=lfs -text

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .vs/GameSigmaShooter/v17/Browse.VC.db.rar
 
 # Prerequisites
@@ -32,3 +33,39 @@
 *.exe
 *.out
 *.app
+=======
+.vs/GameSigmaShooter/v17/Browse.VC.db.rar
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+>>>>>>> 5258b317ec39f5f6dbe75faa8f9efdf74899fd75
